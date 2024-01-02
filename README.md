@@ -17,9 +17,9 @@ Python 3.x
 Jupyter Notebook
 Installation
 Clone this repository:
-'''Shell
+```Shell
 git clone https://github.com/your-username/gen-ai-content.git](https://github.com/arastuthakur/100-Days-of-Gen-AI
-'''
+```
 Usage
 Navigate to the Notebooks directory.
 Open the desired notebook in Jupyter Notebook.

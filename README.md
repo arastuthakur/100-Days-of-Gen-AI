@@ -51,7 +51,7 @@ We welcome contributions! If you'd like to contribute to this repository by addi
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE).
+This repository is licensed under the [MIT License](LICENSE.md).
 
 ## Support
 
